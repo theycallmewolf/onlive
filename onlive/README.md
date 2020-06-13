@@ -1,11 +1,3 @@
-## onlive
-onlive, a website for booking and assist online live music concerts ( final project for react.js course module at etic_ ) 
-
-
-
-
-
-## 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
