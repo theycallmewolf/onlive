@@ -1,5 +1,5 @@
 const config = {
-	api_url: 'http://localhost/etic/m4/_projeto/api/'
+	api_url: 'http://localhost/etic/m4_reactJS/_projeto/onlive/api/'
 };
 
 export default config;

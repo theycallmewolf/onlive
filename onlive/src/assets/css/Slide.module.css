@@ -5,7 +5,10 @@
 }
 .slideContainer figure img {
 	transition: all .6s ease-out;
-	max-width: 150%;
+	max-height: 300px;
+	object-fit: cover;
+	width: 100%;
+	height: 100%;
 }
 .slideContainer:hover figure img {
 	transform: translate(-50%, -50%) scale(1.1);
