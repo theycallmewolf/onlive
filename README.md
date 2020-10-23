@@ -21,10 +21,10 @@ Experiences like "meet the band" (a 30 minutes live chat before the event starts
 
 
 ## The idea has started
-This was an academic project, developed to be the final project for the ReactJS module of web development course at  [etic_](https://www.etic.pt/, "etic_") and it's just a 'darf' of the concept.
+This was an academic project, developed to be the final project for the ReactJS module of web development course at  [etic_](https://www.etic.pt/, "etic_") and it's just a 'draft' of the concept and I intend to upgrading it at the sime time my developer skills increase.
 
 ## But it's not ended
-If you want to colaborate let me know
+If you want to colaborate [let me know](mailto:bruno.m.lobato@gmail.com?subject=Hey%20Wolf!%20I%20found%20your%20Onlive%20project%20on%20GitHub.%20Let's%20talk!)
 
 ## :bulb: Some other features to be developed (so far):
 - [ ] first things first: refactor a lot of code
